@@ -1,3 +1,5 @@
+This code was used to write the project "Tidal Tails" discussing the formation of tails of asteroids surrounding Saturn, using a simple simulation. 
+
 The base src code is in classes.py; all the other files were produced to either output results (to a file if many or to the command line if not), and to plot figures.
 
 Often they contain lots of leftover code from modification from a different file/plot and from testing. The basis of each is essentially a loop such as this: 
